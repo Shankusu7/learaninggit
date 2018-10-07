@@ -1,1 +1,1 @@
-README
+Repository for koss git workshop
