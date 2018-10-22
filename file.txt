@@ -1,1 +1,9 @@
-yoooo
+i finally managed to learn git successfully  to a large extent ....  :D
+can now do following procedure :
+fork
+clone
+make new branch if needed 
+git add
+commit changes
+and finally send PRs 
+DONE   :D 
