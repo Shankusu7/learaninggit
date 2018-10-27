@@ -1,3 +1,3 @@
 Repository for koss git workshop
 
-testing for git fetch :D
+testing git and making PRs
